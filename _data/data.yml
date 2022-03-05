@@ -56,14 +56,14 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person who loves to learn and try new things, throughout my life I have been experimenting and trying new experiences in different areas (such as sports, recreational activities or study). Currently my main interest is technology and programming.  
+    I am a person who loves to learn and try new things, throughout my life I have been experimenting and trying new experiences in different areas (such as sports, recreational activities or study). Currently my main interest is technology and programming.    
     I am currently studying computer systems engineering and at the same time I am learning and improving my skills in web development with the goal of becoming a full-stack developer.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Computer System Engineering
     university: Technological Institute of Colima
-    time: 2019 Agu - current
+    time: 2019 Aug - current
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
