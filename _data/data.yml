@@ -107,23 +107,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Java
       level: 60%
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: HTML
       level: 40%
+
+    - name: CSS
+      level: 40%
+
+    - name: Ruby
+      level: 40%
+
+    - name: Git/Github
+      level: 40%
+
+    - name: SASS
+      level: 20%
 
 # NO MODIFICAR
 footer: >
