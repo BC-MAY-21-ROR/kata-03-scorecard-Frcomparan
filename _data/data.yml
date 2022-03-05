@@ -8,15 +8,15 @@ sidebar:
 
   # Profile information
   name: Francisco Comparán Pantoja # Nombre completo
-  tagline: Ruby on Rails Web Developerr # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
   email: frcomparan@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: /in/francisco-compar%C3%A1n-pantoja-8b9881231/brightcoders
-  github: /Frcomparan
+  linkedin: Francisco Comparán Pantoja
+  github: Frcomparan
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -34,20 +34,30 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Adaptability
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Open-Mindedness
+      link: # dejar en blanco
+      
+    - item: Empathy
+      link: # dejar en blanco
+      
+    - item: Patience
+      link: # dejar en blanco
+      
+    - item: Accountability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a person who loves to learn and try new things, throughout my life I have been experimenting and trying new experiences in different areas (such as sports, recreational activities or study). Currently my main interest is technology and programming.
+    I am currently studying computer systems engineering and at the same time I am learning and improving my skills in web development with the goal of becoming a full-stack developer.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
