@@ -15,7 +15,7 @@ sidebar:
   email: frcomparan@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: Francisco Comparán Pantoja
+  linkedin: Francisco Comparan Pantoja
   github: Frcomparan
   gitlab:
   bitbucket:
@@ -61,63 +61,41 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computer System Engineering
+    university: Technological Institute of Colima
+    time: 2019 Agu - current
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby on Rails Web Developer
+    time: 2022 - current
+    company: BirghtCoders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Internship program in which we receive training on Ruby/Ruby on Rails 
+      and other areas such as Git/Github or Agile Methodology. 
+      In this Bootcamp we generate our skills and knowledge with the 
+      "learn by doing" methodology where we solve different challenges
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Student
+    time: 2021 - 2021
+    company: Technological Institute of Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      School Challenge - "The flavor route and welfare"
+      Challenge where as a team we generate a data organization proposal 
+      (database and diagram class) aligned to the "Sustainable Development Goals" 
+      with the aim of analyzing and developing a system for the administration of a 
+      tourist area in Colima called "Corredor Colima-Suchitlán-La Nogalera-Cofradía de Suchitlan"
+      
+   - role: Student
+    time: 2021 - 2021
+    company: Technological Institute of Colima
+    details: |
+      Reservation Control CRUD
+      Semester project of the database subject where we designed a Database proposal 
+      (with SQL Server) to manage hotel reservations. Where we can assign rooms, make 
+      payments and generate invoices for a reservation. An interface with Java was also 
+      created to use the database.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
