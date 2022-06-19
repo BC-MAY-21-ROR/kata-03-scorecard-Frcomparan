@@ -15,7 +15,7 @@ sidebar:
   email: frcomparan@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: francisco-comparan-pantoja
+  linkedin: Frcomparan
   github: Frcomparan
   gitlab:
   bitbucket:
@@ -69,7 +69,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Ruby on Rails Web Developer
-    time: 2022 - current
+    time: 2022 - 2022
     company: BrightCoders Academy
     details: |
       Internship program in which we receive training on Ruby/Ruby on Rails 
@@ -109,6 +109,12 @@ skills:
   toolset:
     - name: Java
       level: 60%
+      
+    - name: JavaScript
+      level: 60%
+      
+    - name: Ruby
+      level: 60%
 
     - name: HTML
       level: 40%
@@ -116,14 +122,11 @@ skills:
     - name: CSS
       level: 40%
 
-    - name: Ruby
-      level: 40%
-
     - name: Git/Github
       level: 40%
 
     - name: SASS
-      level: 20%
+      level: 40%
 
 # NO MODIFICAR
 footer: >
